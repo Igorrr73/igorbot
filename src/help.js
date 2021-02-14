@@ -1,11 +1,10 @@
 const help = (prefix) => {
 	return `
-「 *Toin BOT* 」
+「 *Igor BOT* 」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Toin
-  ❏ Como instalar o BOT: https://www.youtube.com/watch?v=4cjhlXo9aGo
+  ❏ Criador : igor
 
 ◪ *SOBRE*
   │
@@ -16,7 +15,7 @@ const help = (prefix) => {
   └─ ❏ ${prefix}bugreport
 ◪ *FAZER*
   │
-  ├─ ❏ ${prefix}sticker
+  ├─ ❏ ${prefix}figu
   ├─ ❏ ${prefix}stickergif
   ├─ ❏ ${prefix}toimg
   ├─ ❏ ${prefix}tomp3
